@@ -1,0 +1,10 @@
+{
+	"pages.mainPage.name": "Motion Lighting Control",
+	"Tap to set": "Tap to set",
+	"pages.mainPage.sections.sensors.name": "When motion is detected",
+	"pages.mainPage.settings.motionSensors.name": "Select motion sensors",
+	"pages.mainPage.sections.lights.name": "Turn on these devices",
+    "pages.mainPage.settings.lights.name": "Select lights and switches",
+    "pages.mainPage.sections.delay.name": "After this amount of time",
+	"pages.mainPage.settings.delay.name": "Optional time delay in seconds"
+}

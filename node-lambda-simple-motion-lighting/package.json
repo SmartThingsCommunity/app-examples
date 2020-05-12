@@ -1,0 +1,29 @@
+{
+  "name": "simple-motion-lighting",
+  "version": "1.0.0",
+  "description": "Turns lights on when motion is detected and off some time after it has stopped",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartThingsCommunity/app-examples.git"
+  },
+  "keywords": [
+    "SmartThings",
+    "SmartApp",
+    "Motion",
+    "Lighting"
+  ],
+  "author": "SmartThings",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SmartThingsCommunity/app-examples/issues"
+  },
+  "homepage": "https://github.com/SmartThingsCommunity/app-examples#readme",
+  "dependencies": {
+    "@smartthings/smartapp": "^2.1.0"
+  }
+}
