@@ -12,5 +12,5 @@ provider:
 
 functions:
   smartapp:
-    handler: smartapp.handle
+    handler: index.handle
     timeout: 20
