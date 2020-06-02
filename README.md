@@ -11,7 +11,7 @@ If you are not already familiar with SmartApp development check out the Samsung 
   &mdash; simple app showing how to subscribe to events and send commands to devices. 
   Set up to be run as an [Express](https://www.npmjs.com/package/express) web-hook app.
 
-  * [TypeScript control lights when something opens and closes](node-express-open-close-lighting/README.md)
+  * [TypeScript control lights when something opens and closes](node-express-ts-open-close-lighting/README.md)
   &mdash; TypeScript version of the above app that turns on and off a light when something opens
   and closes.
   
