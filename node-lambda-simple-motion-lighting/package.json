@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/SmartThingsCommunity/app-examples#readme",
   "dependencies": {
-    "@smartthings/smartapp": "^2.1.0"
+    "@smartthings/smartapp": "^2.2.0"
   }
 }
