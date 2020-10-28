@@ -6,5 +6,4 @@ multiple motion sensor and multiple lights. Motion on any sensor turns the light
 ## File Structure
 
 * smartapp.js &mdash; the SmartApp implementation
-* server.js &mdash; the Express server that hosts the SmartApp as a web-hook
 * locales/en.json &mdash; English version of the app configuration page text

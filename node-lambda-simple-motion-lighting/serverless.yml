@@ -1,9 +1,10 @@
 service: simple-motion-lighting-smartapp
 
 package:
-  - index.js
-  - smartapp.js
-  - locales/**
+  include:
+    - index.js
+    - smartapp.js
+    - locales/**
 
 provider:
   name: aws
