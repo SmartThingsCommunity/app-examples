@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartThingsCommunity/app-examples.git"
+  },
   "author": "SmartThings",
   "license": "Apache-2.0",
   "dependencies": {
