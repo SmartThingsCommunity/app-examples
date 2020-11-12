@@ -1,0 +1,29 @@
+{
+  "name": "weather-color-light-SmartApp",
+  "version": "1.0.0",
+  "description": "sample SmartThings webhook SmartApp",
+  "repository": "https://github.com/SmartThingsCommunity/weather-color-light-smartapp-nodejs",
+  "main": "server.js",
+  "ava": {
+    "files": [
+      "./**/*.spec.js"
+    ],
+    "failFast": true
+  },
+  "scripts": {
+    "test": "NODE_ENV=test ava --verbose",
+    "start": "node server.js"
+  },
+  "author": "SmartThings",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@smartthings/smartapp": "^2.4.2",
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "prettyjson": "^1.2.1"
+  },
+  "devDependencies": {
+    "ava": "^3.13.0"
+  }
+}
