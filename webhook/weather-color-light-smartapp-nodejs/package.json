@@ -1,5 +1,5 @@
 {
-  "name": "weather-color-light-SmartApp",
+  "name": "weather-color-light-smartapp",
   "version": "1.0.0",
   "description": "sample SmartThings webhook SmartApp",
   "repository": "https://github.com/SmartThingsCommunity/weather-color-light-smartapp-nodejs",
