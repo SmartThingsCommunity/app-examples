@@ -17,7 +17,7 @@
   "author": "SmartThings",
   "license": "Apache-2.0",
   "dependencies": {
-    "@smartthings/smartapp": "^2.4.2",
+    "@smartthings/smartapp": "^2.4.3",
     "axios": "^0.20.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
@@ -25,5 +25,8 @@
   },
   "devDependencies": {
     "ava": "^3.13.0"
+  },
+  "engines": {
+    "node": "^12"
   }
 }
