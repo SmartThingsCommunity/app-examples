@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -24,13 +24,10 @@
   },
   "homepage": "https://github.com/SmartThingsCommunity/app-examples#readme",
   "dependencies": {
-    "@smartthings/smartapp": "^2.1.0",
+    "@smartthings/smartapp": "^2.4.3",
     "express": "^4.17.1"
   },
-  "devDependencies": {
-    "@smartthings/core-sdk": "^0.2.6",
-    "axios": "^0.19.2",
-    "jest": "^26.0.1",
-    "node": "^12.13.0"
+  "engines": {
+    "node": "^12"
   }
 }

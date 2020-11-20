@@ -13,6 +13,10 @@
   "author": "SmartThings",
   "license": "Apache-2.0",
   "dependencies": {
+    "@smartthings/smartapp": "^2.4.3",
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "^12"
   }
 }
